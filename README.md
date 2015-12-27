@@ -1,5 +1,7 @@
 # Drywall
 
+A fork of Drywall for Blog System.
+
 A website and user system starter. Implemented with Express and Backbone.
 
 [![Dependency Status](https://david-dm.org/jedireza/drywall.svg?theme=shields.io)](https://david-dm.org/jedireza/drywall)
